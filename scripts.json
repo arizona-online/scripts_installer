@@ -6,7 +6,7 @@
         "link": "https://raw.githubusercontent.com/arizona-online/scripts_installer/main/warningpayday.lua",
         "img": "https://domain.com/lua_installer/img/warningpayday.jpg",
         "platform": "PC + MOBILE",
-        "info": "Г“ГўГҐГ¤Г®Г¬Г«ГҐГ­ГЁГҐ Г® PayDay Г§Г Г°Г Г­Г­ГҐГҐ (Г§Г  5, 10, 15 Г¬ГЁГ­ГіГІ Г¤Г® PayDay)"
+        "info": "Уведомление о PayDay зараннее (за 5, 10, 15 минут до PayDay)"
     },
     {
         "name": "Fast Call",
@@ -15,15 +15,6 @@
         "link": "https://raw.githubusercontent.com/arizona-online/scripts_installer/main/fastcall.lua",
         "img": "https://domain.com/lua_installer/img/fastcall.jpg",
         "platform": "PC",
-        "info": "Г“ГЇГ°Г®Г№Г ГҐГІ ГўГ»Г§Г®Гў ГЇГ® ГІГҐГ«ГҐГґГ®Г­Гі (/ca [ID ГЁГЈГ°Г®ГЄГ ])"
-    },
-	{
-        "name": "CEF Hud Editor",
-        "ver": "1.0",
-        "author": "s",
-        "link": "https://raw.githubusercontent.com/arizona-online/scripts_installer/main/huyna.lua ",
-        "img": "https://domain.com/lua_installer/img/fastcall.jpg",
-        "platform": "PC",
-        "info": "idi nahuy"
+        "info": "Упрощает вызов по телефону (/ca [ID игрока])"
     }
 ]
