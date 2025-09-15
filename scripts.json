@@ -16,5 +16,14 @@
         "img": "https://domain.com/lua_installer/img/fastcall.jpg",
         "platform": "PC",
         "info": "Упрощает вызов по телефону (/ca [ID игрока])"
+    },
+	{
+        "name": "CEF Hud Editor",
+        "ver": "1.0",
+        "author": "s",
+        "link": "https://raw.githubusercontent.com/arizona-online/scripts_installer/main/fastcall.lua",
+        "img": "https://domain.com/lua_installer/img/fastcall.jpg",
+        "platform": "PC",
+        "info": "idi nahuy"
     }
 ]
