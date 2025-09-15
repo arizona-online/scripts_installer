@@ -6,7 +6,7 @@
         "link": "https://raw.githubusercontent.com/arizona-online/scripts_installer/main/warningpayday.lua",
         "img": "https://domain.com/lua_installer/img/warningpayday.jpg",
         "platform": "PC + MOBILE",
-        "info": "РЈРІРµРґРѕРјР»РµРЅРёРµ Рѕ PayDay Р·Р°СЂР°РЅРЅРµРµ (Р·Р° 5, 10, 15 РјРёРЅСѓС‚ РґРѕ PayDay)"
+        "info": "Уведомление о PayDay зараннее (за 5, 10, 15 минут до PayDay)"
     },
     {
         "name": "Fast Call",
@@ -15,6 +15,6 @@
         "link": "https://raw.githubusercontent.com/arizona-online/scripts_installer/main/fastcall.lua",
         "img": "https://domain.com/lua_installer/img/fastcall.jpg",
         "platform": "PC",
-        "info": "РЈРїСЂРѕС‰Р°РµС‚ РІС‹Р·РѕРІ РїРѕ С‚РµР»РµС„РѕРЅСѓ (/ca [ID РёРіСЂРѕРєР°])"
+        "info": "Упрощает вызов по телефону (/ca [ID игрока])"
     }
 ]
