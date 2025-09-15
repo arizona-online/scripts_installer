@@ -3,7 +3,7 @@
         "name": "Warning PayDay",
         "ver": "1.0",
         "author": "Mike Rotch",
-        "link": "https://github.com/arizona-online/scripts_installer/blob/main/warningpayday.lua",
+        "link": "https://raw.githubusercontent.com/arizona-online/scripts_installer/main/warningpayday.lua",
         "img": "https://domain.com/lua_installer/img/warningpayday.jpg",
         "platform": "PC + MOBILE",
         "info": "Уведомление о PayDay зараннее (за 5, 10, 15 минут до PayDay)"
@@ -12,7 +12,7 @@
         "name": "Fast Call",
         "ver": "1.0",
         "author": "Mike Rotch",
-        "link": "https://github.com/arizona-online/scripts_installer/blob/main/fastcall.lua",
+        "link": "https://raw.githubusercontent.com/arizona-online/scripts_installer/main/fastcall.lua",
         "img": "https://domain.com/lua_installer/img/fastcall.jpg",
         "platform": "PC",
         "info": "Упрощает вызов по телефону (/ca [ID игрока])"
