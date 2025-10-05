@@ -54,7 +54,7 @@
         "info": "Скрипт упрощает открытие меню банка в телефоне командой /bank."
     },
 	{
-        "name": "ArzFastBankMenu ",
+        "name": "ArzFastBankMenu",
         "ver": "1.0",
         "author": "Mike Rotch x Freym",
         "link": "https://raw.githubusercontent.com/arizona-online/scripts_installer/main/arzfastbankmenu.lua",
