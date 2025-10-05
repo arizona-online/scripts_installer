@@ -5,8 +5,8 @@
         "author": "Mike Rotch",
         "link": "https://raw.githubusercontent.com/arizona-online/scripts_installer/main/warningpayday.lua",
         "img": "https://domain.com/lua_installer/img/warningpayday.jpg",
-        "platform": "PC + MOBILE",
-        "info": "Уведомление о PayDay зараннее (за 5, 10, 15 минут до PayDay)"
+        "platform": "PC",
+        "info": "Уведомление о PayDay зараннее (за 5, 10, 15 минут до PayDay). Тестовое уведомление - /testpd."
     },
     {
         "name": "Fast Call",
@@ -15,6 +15,51 @@
         "link": "https://raw.githubusercontent.com/arizona-online/scripts_installer/main/fastcall.lua",
         "img": "https://domain.com/lua_installer/img/fastcall.jpg",
         "platform": "PC",
-        "info": "Упрощает вызов по телефону (/ca [ID игрока])"
+        "info": "Упрощает вызов по телефону (/ca [ID игрока])."
+    },
+	{
+        "name": "Binder",
+        "ver": "1.0",
+        "author": "Mike Rotch",
+        "link": "https://raw.githubusercontent.com/arizona-online/scripts_installer/main/binder.lua",
+        "img": "https://domain.com/lua_installer/img/binder.jpg",
+        "platform": "PC",
+        "info": "Простой, упрощённый биндер. Для того, чтобы изменить биндеры или создать новый, необходимо отредактировать код скрипта."
+    },
+    {
+        "name": "Custom FOV",
+        "ver": "1.0",
+        "author": "Mike Rotch x MTG MODS",
+        "link": "https://raw.githubusercontent.com/arizona-online/scripts_installer/main/customfov.lua",
+        "img": "https://domain.com/lua_installer/img/customfov.jpg",
+        "platform": "PC",
+        "info": "Скрипт позволяет менять угол видимости командой /fov [Угол видимости]"
+    },
+	{
+        "name": "ArzCloseCalendar",
+        "ver": "1.0",
+        "author": "Mike Rotch x Freym",
+        "link": "https://raw.githubusercontent.com/arizona-online/scripts_installer/main/arzclosecalendar.lua",
+        "img": "https://domain.com/lua_installer/img/arzclosecalendar.jpg",
+        "platform": "PC",
+        "info": "Данный скрипт автоматически закрывает календарь при его открытии командой /calendar."
+    },
+	{
+        "name": "ArzFastCarsMenu",
+        "ver": "1.0",
+        "author": "Mike Rotch x Freym",
+        "link": "https://raw.githubusercontent.com/arizona-online/scripts_installer/main/arzfastcarsmenu.lua",
+        "img": "https://domain.com/lua_installer/img/arzfastcarsmenu.jpg",
+        "platform": "PC",
+        "info": "Скрипт упрощает открытие меню банка в телефоне командой /bank."
+    },
+	{
+        "name": "ArzFastBankMenu ",
+        "ver": "1.0",
+        "author": "Mike Rotch x Freym",
+        "link": "https://raw.githubusercontent.com/arizona-online/scripts_installer/main/arzfastbankmenu.lua",
+        "img": "https://domain.com/lua_installer/img/arzfastbankmenu.jpg",
+        "platform": "PC",
+        "info": "Скрипт упрощает открытие меню 'Трезвый Водитель' из телефона командой /pcars."
     }
 ]
