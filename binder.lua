@@ -32,15 +32,21 @@ function main()
         end
 		
 		if isKeyJustPressed(VK_OEM_5) and isKeyDown(VK_OEM_6) and not sampIsCursorActive() then
-            sampProcessChatInput('/dk') -- Домкрат
+            sampProcessChatInput('/domkrat') -- Домкрат
 			sampAddChatMessage('{BE2D2D}[Binder Punish]{FFFFFF} Нажата комбинация клавиш, использую Домкрат...') -- Оповещение
-			notification.Notification(u8"Binder Punish", u8"Нажата комбинация клавиш, использую\nДомкрат...", "info", 3.0) -- Оповещение
+			notification.Notification(u8"Binder Punish x Server", u8"Нажата комбинация клавиш, использую\nДомкрат...", "info", 3.0) -- Оповещение
 	    end
 			
 		if isKeyJustPressed(VK_F3) and not sampIsCursorActive() then
             sampProcessChatInput('/fov 100') -- Настройка Custom FOV на значение 100
 			sampAddChatMessage('{BE2D2D}[Binder Punish]{FFFFFF} Нажата комбинация клавиш, изменяю FOV на значение 100...') -- Оповещение
 			notification.Notification(u8"Binder Punish x Custom FOV", u8"Нажата комбинация клавиш, изменяю\nFOV на значение 100...", "info", 3.0) -- Оповещение
+		end
+		
+		if isKeyJustPressed(VK_DELETE) and not sampIsCursorActive() then
+            sampProcessChatInput('/pcars') -- Трезвый водитель
+			sampAddChatMessage('{BE2D2D}[Binder Punish]{FFFFFF} Нажата комбинация клавиш, открываю Трезвый водитель...') -- Оповещение
+			notification.Notification(u8"Binder Punish x ArzFastCarsMenu", u8"Нажата комбинация клавиш, открываю\nТрезвый водитель...", "info", 3.0) -- Оповещение
 		end
     end
 end
