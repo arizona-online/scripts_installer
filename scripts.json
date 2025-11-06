@@ -45,6 +45,15 @@
         "info": "Данный скрипт автоматически закрывает календарь при его открытии командой /calendar."
     },
 	{
+        "name": "CEF HUD EDITOR",
+        "ver": "1.0",
+        "author": "Willy4ka",
+        "link": "https://raw.githubusercontent.com/arizona-online/scripts_installer/main/CEFHUDEditor.lua",
+        "img": "https://domain.com/lua_installer/img/CEFHUDEDITOR.jpg",
+        "platform": "Willy4ka",
+        "info": "Данный скрипт позволяет менять худ полностью."
+    },
+	{
         "name": "ArzFastCarsMenu",
         "ver": "1.0",
         "author": "Mike Rotch x Freym",
